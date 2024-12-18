@@ -46,7 +46,7 @@ The **Bank Management System** is a simple yet functional console-based applicat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bank-management-system.git
+   https://github.com/prashant8920/BankMangementSys.git
    cd bank-management-system
    ```
 
